@@ -1,4 +1,4 @@
-﻿## Hunt: Showdown - CPSC 304 Database Project
+﻿## Hunt: Showdown Video Game Database
 
 Our application represents a simplified model of the Hunt: Showdown equipment system, and also models locations and monster entities within the game. The database includes information about the different Hunters featured in the game, including the various traits that they can acquire. Each Hunter is expected to carry a firearm, and they may also choose to wield a tool and bring various consumables. Each firearm, tool and consumable all have different specifications and descriptions; firearms also require ammunition which may be of different types. Hunters may be located at different locations on the map, and at each location, there may be monsters that spawn. Names of the various locations, along with coordinates, are included in the databases. Information about the different monsters that spawn at each location are also modeled accordingly.
 
